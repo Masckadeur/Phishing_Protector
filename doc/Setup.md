@@ -1,5 +1,6 @@
 # Pré-requis
 * Python3.9
+* Pytest
 
 ## BlackList
 dans le dossier *ban*, des fichiers *.txt sont présent, il suffit d'ajouter des lignes avec les informations correspondantes (adresse email, nom de domaine, extension de fichier) afin de les ajouter comme données qui permettent de dire au script ce qu'il peut être ban.
