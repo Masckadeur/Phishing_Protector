@@ -19,6 +19,7 @@ scr
 sct
 shb
 sys
+sh
 vb
 vbe
 vbs
